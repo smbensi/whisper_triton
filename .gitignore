@@ -1,3 +1,6 @@
 *whisper_folder
 *__pycache__
 understand_LLMs/gpt2/*
+*.pth
+*.csv
+understand_LLMs/sms_spam_collection*
